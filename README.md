@@ -5,6 +5,8 @@ If you already have Python and ffmpeg installed then download the repository and
 - **'ffmpeg.py'** to test various video and image coversions using _'input.mp4'_.
 - **'data_example.py'** to convert _'data.tif'_ to a .gif with scale bar and text.
 
+![social_preview](https://github.com/amsikking/ffmpeg/blob/main/social_preview.png)
+
 ## Download:
 Check download options here: https://ffmpeg.org/download.html
 - For windows these builds from gyan.dev have worked: https://www.gyan.dev/ffmpeg/builds/
