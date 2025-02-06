@@ -13,10 +13,9 @@ Check download options here: https://ffmpeg.org/download.html
 - For example: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
 
 ## Install:
-- Unzip (using for example https://www.7-zip.org/)
-- Drag and drop folder into good location (for example C:\Program Files\ffmpeg\)
-- Find ffmpeg.exe (should be in C:\Program Files\ffmpeg\bin\ffmpeg.exe)
-- Now add directory (C:\Program Files\ffmpeg\bin\) to PATH so it can be found
+- Unzip ffmpeg (using for example https://www.7-zip.org/)
+- Drag and drop the folder into good location (e.g. C:\Program Files\ffmpeg)
+- Now add the directory (e.g. C:\Program Files\ffmpeg\bin\) to PATH so it can be found
 - For Windows 10 right click 'This PC' then click:
- Properties > Advanced System Settings > Advanced tab > Environment Variables. Add the directory...
+ Properties > Advanced System Settings > Advanced tab > Environment Variables > System variables. Find the 'Path' variable, hit 'Edit' and add the directory with 'New'.
 - ffmpeg should now run from the command line (for example try 'ffmpeg -version')
